@@ -1,5 +1,5 @@
 public class YatzyGame {
     public int score(YatzyCategory category, int[] dice) {
-        return 1;
+        return 2;
     }
 }
